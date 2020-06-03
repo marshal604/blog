@@ -8,3 +8,4 @@
 - 2019/04/06 [Angular小教室 - 用Note List了解頁面基本元素 (基礎篇)](https://github.com/marshal604/blog/issues/2)
 - 2020/06/03 [You Don't Know JS 小筆記 - 作用域](https://github.com/marshal604/blog/issues/3)
 - 2020/06/03 [You Don't Know JS 小筆記 - this & prototype](https://github.com/marshal604/blog/issues/4)
+- 2020/06/03 [You Don't Know JS 小筆記 - callback & promise & async](https://github.com/marshal604/blog/issues/5)
