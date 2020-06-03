@@ -6,3 +6,4 @@
 
 - 2019/03/13 [Angular 小教室 - 如何建置專案](https://github.com/marshal604/blog/issues/1)
 - 2019/04/06 [Angular小教室 - 用Note List了解頁面基本元素 (基礎篇)](https://github.com/marshal604/blog/issues/2)
+- 2020/06/03 [You Don't Know JS 小筆記 - 作用域](https://github.com/marshal604/blog/issues/3)
